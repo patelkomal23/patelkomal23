@@ -1,52 +1,76 @@
-<!-- Gradient Banner -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Komal%20Patel&fontSize=45&fontColor=ffffff&animation=fadeIn)
+<!-- 🌈 Animated Gradient Banner -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=230&section=header&text=Komal%20Patel&fontSize=45&fontColor=ffffff&animation=fadeIn)
 
 ---
 
-<!-- Typing Animation -->
+<!-- 🔥 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=25&center=true&vCenter=true&width=600&lines=Hey!+I'm+Komal+👋;Full+Stack+Developer;Freelancer+💼;I+Build+Modern+Web+Apps🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=26&center=true&vCenter=true&width=700&lines=Hey!+I'm+Komal+👋;Full+Stack+Developer;Freelancer+💼;I+Build+Modern+Websites+🚀;Let's+Work+Together!">
 </p>
 
 ---
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-## 💫 About Me
-- 🔥 Passionate Full Stack Developer  
-- 💻 I build responsive & modern websites  
-- 🚀 Currently learning advanced React & backend  
-- 💼 Available for Freelance Projects  
-- ⚡ Focus: Clean UI + Fast Performance  
+## 👩‍💻 About Me
+- 💖 Passionate Full Stack Developer  
+- 💻 I create modern, responsive & fast websites  
+- 🌱 Currently learning advanced backend & APIs  
+- 🚀 Focused on UI/UX + Performance  
+- 💼 Available for Freelance Work  
+- ⚡ Fun fact: I love designing & coding both  
 
 ---
 
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,github,vscode" />
+## 🛠️ Tech Stack (Full Stack 🚀)
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+### 🧰 Tools & Others
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats 📈
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical" />
 </p>
 
 ---
 
-## 🌟 Top Skills
-- 🌐 Website Development  
-- 🎨 UI/UX Design  
-- ⚡ Frontend Optimization  
-- 🔗 API Integration  
+## 🧠 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+- 🔗 E-commerce Website (React + Node.js)
+- 📊 Result Management System  
+- 🍔 Restaurant POS System  
 
 ---
 
@@ -60,10 +84,17 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-<a href="https://linkedin.com/in/YOURLINK">LinkedIn</a> |
-<a href="patelkkomal2332@gmail.com">Email</a>
+<a href="https://linkedin.com/in/YOURLINK">🔗 LinkedIn</a> |
+<a href="mailto:your@email.com">📧 Email</a>
 </p>
 
 ---
 
-⭐ Don't forget to follow me!
+## 🎯 Profile Views Counter
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=ff69b4&style=flat" />
+</p>
+
+---
+
+⭐ Thanks for visiting my profile!

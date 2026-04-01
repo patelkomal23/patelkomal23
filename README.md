@@ -69,12 +69,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" />
 </p>
 
----
 
-## 🐍 Contribution Snake (Animation 🔥)
-![snake gif](https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## 🌟 Featured Projects
 - 🔗 E-commerce Website (React + Node.js)

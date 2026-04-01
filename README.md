@@ -15,7 +15,6 @@
 ## 👩‍💻 About Me
 - 💖 Passionate Full Stack Developer  
 - 💻 I create modern, responsive & fast websites  
-- 🌱 Currently learning advanced backend & APIs  
 - 🚀 Focused on UI/UX + Performance  
 - 💼 Available for Freelance Work  
 - ⚡ Fun fact: I love designing & coding both  
@@ -85,7 +84,7 @@
 ## 🌐 Connect With Me
 <p align="center">
 <a href="https://linkedin.com/in/YOURLINK">🔗 LinkedIn</a> |
-<a href="mailto:your@email.com">📧 Email</a>
+<a href="patelkomal2332@gmail.com">📧 Email</a>
 </p>
 
 ---

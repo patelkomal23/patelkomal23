@@ -11,13 +11,19 @@
 ---
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
 ## 👩‍💻 About Me
-- 💖 Passionate Full Stack Developer  
-- 💻 I create modern, responsive & fast websites  
-- 🚀 Focused on UI/UX + Performance  
-- 💼 Available for Freelance Work  
-- ⚡ Fun fact: I love designing & coding both  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFCC&size=24&center=true&vCenter=true&width=600&lines=Hi+I'm+Komal+👋;Full+Stack+MERN+Developer;I+Love+Building+Web+Apps;Freelancer+Available+💼">
+</p>
+
+---
+
+```diff
++ Name: Komal Patel
++ Role: Full Stack Developer (MERN)
++ Passion: Creating Modern UI & Scalable Apps
++ Status: Available for Freelance Work
 
 ---
 

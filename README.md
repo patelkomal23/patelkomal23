@@ -5,7 +5,7 @@
 
 <!-- 🔥 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=26&center=true&vCenter=true&width=700&lines=Hey!+I'm+Komal+👋;Full+Stack+MERN+Developer;Freelancer+💼;UI+Designer+🎨;Let's+Build+Something+Amazing+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=26&center=true&vCenter=true&width=700&lines=Hey!+I'm+Komal+👋;Full+Stack+Developer;Freelancer+💼;UI+Designer+🎨;Let's+Build+Something+Amazing+🚀">
 </p>
 
 ---
@@ -14,7 +14,7 @@
 
 ## 👩‍💻 About Me
 ✨ Turning ideas into **interactive digital experiences**  
-💖 Passionate **Full Stack MERN Developer**  
+💖 Passionate **Full Stack Developer**  
 🚀 Focused on **UI/UX + Performance**  
 💼 Open for **Freelance Projects**  
 ⚡ Love **Design + Code Combination**

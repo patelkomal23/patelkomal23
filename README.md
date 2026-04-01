@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Komal Patel</h1>
-<h3 align="center">🚀 MERN Stack Developer | Crafting Digital Experiences</h3>
+<h3 align="center">🚀 Full Stack Developer </h3>
 
 ---
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### 💫 About Me:
-- 🔭 I’m currently working on React Projects  
 - 🌱 I’m learning Full Stack Development  
 - 💬 Ask me about HTML, CSS, JS, React  
 - ⚡ Fun fact: I love creating UI designs  

@@ -28,7 +28,7 @@
 
 ---
 
-## 🧠 Skills (Badges + Icons)
+## 🧠 Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-HTML%20CSS%20JS-blue?style=for-the-badge&logo=html5" />

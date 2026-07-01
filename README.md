@@ -1,104 +1,217 @@
-<!-- 🌈 Animated Gradient Banner -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=230&section=header&text=Komal%20Patel&fontSize=45&fontColor=ffffff&animation=fadeIn)
+<!--==================== Animated Banner ====================-->
 
----
-
-<!-- 🔥 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=26&center=true&vCenter=true&width=700&lines=Hey!+I'm+Komal+👋;Full+Stack+Developer;Freelancer+💼;UI+Designer+🎨;Let's+Build+Something+Amazing+🚀">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&text=Komal%20Patel&fontSize=55&fontAlignY=40&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20Freelancer%20%7C%20UI%20Designer&descAlignY=60&descSize=20"/>
+</p>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=FF61F6&center=true&vCenter=true&width=850&lines=Hi+👋+I'm+Komal+Patel;Full+Stack+Developer;Frontend+Developer;React+Developer;UI+Designer;Freelancer;Always+Learning+New+Technologies🚀"/>
+
 </p>
 
 ---
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
+<div align="center">
 
-## 👩‍💻 About Me
-✨ Turning ideas into **interactive digital experiences**  
-💖 Passionate **Full Stack Developer**  
-🚀 Focused on **UI/UX + Performance**  
-💼 Open for **Freelance Projects**  
-⚡ Love **Design + Code Combination**
+<img src="https://img.shields.io/github/followers/patelkomal23?style=for-the-badge&logo=github&color=ff69b4"/>
+<img src="https://img.shields.io/github/stars/patelkomal23?style=for-the-badge&logo=github&color=yellow"/>
+<img src="https://komarev.com/ghpvc/?username=patelkomal23&style=for-the-badge&color=blueviolet"/>
+
+</div>
 
 ---
-## 🚀 Tech Stack
+
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+# 💫 About Me
+
+✨ Passionate Full Stack Developer
+
+💻 Love creating Modern Websites
+
+🎨 UI / UX Enthusiast
+
+🚀 Freelancer
+
+🌱 Learning New Technologies Everyday
+
+⚡ Turning Ideas into Beautiful Websites
+
+---
+
+# 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,tailwind,git,github,vscode,postman&perline=6" />
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react,nodejs,express,mongodb,mysql,git,github,vscode,postman,firebase,figma&perline=8"/>
+
 </p>
 
 ---
 
-## 🧠 Skills
+# 🎯 Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-HTML%20CSS%20JS-blue?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/React-Developer-61DAFB?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-brightgreen?style=for-the-badge&logo=mongodb" />
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
+
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap"/>
+
+<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react"/>
+
+<img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js"/>
+
+<img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express"/>
+
+<img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb"/>
+
 </p>
 
 ---
 
-## 🚀 What I Do
+# ⚡ GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🌐%20Web%20Development-ff69b4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎨%20UI%20Design-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/⚡%20Performance-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🔗%20API%20Integration-green?style=for-the-badge" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=patelkomal23&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelkomal23&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
----
+# 🔥 GitHub Streak
 
-## 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=patelkomal23&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🧠 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" />
-</p>
-
-
-
-## 🌟 Featured Projects
-- 🔗 E-commerce Website (React + Node.js)
-- 📊 Result Management System  
-- 🍔 Restaurant POS System  
-
----
-
-## 💼 Freelance Services
-✔️ Website Development  
-✔️ Landing Page Design  
-✔️ React Web Apps  
-✔️ Bug Fixing & Optimization  
-
----
-
-## 🌐 Connect With Me (Icons)
+# 📈 Contribution Graph
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOURLINK">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:patelkomal2332@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=patelkomal23&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🎯 Profile Views Counter
+# 🏆 GitHub Trophy
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=ff69b4&style=flat" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=patelkomal23&theme=tokyonight&column=4&margin-w=20&margin-h=20"/>
+
 </p>
 
 ---
 
-⭐ **Thanks for visiting my profile! Let's connect and build something amazing 🚀**
+# 💻 What I Do
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Web%20Development-ff69b4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/React%20Apps-61DAFB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/UI%20Design-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/API%20Integration-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Freelancing-orange?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🌟 Featured Projects
+
+### 🛒 E-Commerce Website
+
+React • Node.js • MongoDB
+
+---
+
+### 🎓 Result Management System
+
+HTML • CSS • JavaScript
+
+---
+
+### 🍔 Restaurant POS
+
+React • Express • MongoDB
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="mailto:patelkomal2332@gmail.com">
+
+<img src="https://skillicons.dev/icons?i=gmail"/>
+
+</a>
+
+<a href="https://github.com/patelkomal23">
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+</a>
+
+<a href="https://linkedin.com/in/YOURLINK">
+
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+
+</a>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/patelkomal23/patelkomal23/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# ☕ Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🎵 Spotify (Optional)
+
+<p align="center">
+
+<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+</p>
